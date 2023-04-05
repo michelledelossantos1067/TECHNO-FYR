@@ -1,0 +1,32 @@
+{
+    "estudiantes":[
+{
+    "id": 1,
+    "primer_nombre": "Dianny",
+    "segundo_nombre": "Michelle",
+    "Primer_apellido":"De los santos",
+    "Segundo_apellido":"De los santos",
+    "direccion":"villa flores",
+    "edad":18,
+    "correo":"diannydelossantos@gmail.com",
+    "telefono": 8099066054,
+    "number_id":"406-7009876-0",
+    "fecha_de_naimiento":"15/5/2005"
+
+},
+{
+    "id": 2,
+    "primer_nombre": "Dianny",
+    "segundo_nombre": "Michelle",
+    "Primer_apellido":"peres",
+    "Segundo_apellido":"De los santos",
+    "direccion":"avenida",
+    "edad":17,
+    "correo":"diannydelossantos@gmail.com",
+    "telefono": 8099066054,
+    "number_id":"406-7009876-0",
+    "fecha_de_naimiento":"15/5/2005"
+
+}
+    ]
+}
